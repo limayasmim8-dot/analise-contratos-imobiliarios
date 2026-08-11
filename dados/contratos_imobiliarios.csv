@@ -1,1 +1,101 @@
-
+﻿id_contrato,tipo_imovel,cidade,bairro,valor_aluguel,taxa_administracao,garantia,reajuste,inicio_contrato,fim_contrato,vigencia_meses,status,inadimplente
+CTR-2026-0001,Apartamento,Ribeirão Preto,Jardim Irajá,4250,340.0,Fiador,IPCA,2025-05-25,2027-05-25,24,Encerrado,1
+CTR-2025-0002,Galpão,Sorocaba,Centro,4000,360.0,Caução,IPCA,2025-02-21,2027-02-21,24,Ativo,1
+CTR-2026-0003,Galpão,Campinas,Centro,3600,324.0,Seguro Fiança,IGP-M,2026-01-28,2028-01-28,24,Ativo,0
+CTR-2025-0004,Apartamento,São Paulo,Santana,1600,128.0,Caução,IGP-M,2025-07-07,2028-01-06,30,Encerrado,1
+CTR-2026-0005,Apartamento,Jundiaí,Vila Arens,2400,216.0,Caução,IPCA,2026-03-05,2028-09-03,30,Ativo,0
+CTR-2025-0006,Casa,São Paulo,Moema,4700,470.0,Fiador,IGP-M,2025-05-27,2028-05-26,36,Ativo,0
+CTR-2026-0007,Apartamento,Santos,Embaré,3800,304.0,Capitalização,IPCA,2025-04-02,2027-04-02,24,Ativo,1
+CTR-2025-0008,Sala Comercial,Ribeirão Preto,Jardim Irajá,1850,185.0,Capitalização,IGP-M,2026-03-01,2027-03-01,12,Ativo,0
+CTR-2026-0009,Sala Comercial,Ribeirão Preto,Jardim Irajá,3600,360.0,Fiador,IGP-M,2025-09-17,2028-09-16,36,Ativo,0
+CTR-2025-0010,Loja,Sorocaba,Campolim,6200,620.0,Fiador,IGP-M,2025-08-12,2028-08-11,36,Em renovação,0
+CTR-2026-0011,Apartamento,Jundiaí,Centro,4750,427.5,Capitalização,IPCA,2025-03-02,2027-03-02,24,Ativo,0
+CTR-2025-0012,Galpão,Sorocaba,Além Ponte,7600,608.0,Seguro Fiança,IPCA,2026-05-17,2027-05-17,12,Encerrado,0
+CTR-2026-0013,Galpão,Santos,Gonzaga,10950,1095.0,Caução,IPCA,2025-01-06,2027-07-08,30,Encerrado,0
+CTR-2025-0014,Loja,Sorocaba,Centro,2650,238.5,Seguro Fiança,IPCA,2025-07-15,2027-07-15,24,Ativo,0
+CTR-2026-0015,Sala Comercial,São José dos Campos,Centro,1150,92.0,Capitalização,IPCA,2025-05-08,2026-05-08,12,Encerrado,1
+CTR-2025-0016,Galpão,Campinas,Taquaral,7850,785.0,Fiador,IPCA,2025-10-02,2028-10-01,36,Encerrado,0
+CTR-2026-0017,Sala Comercial,Ribeirão Preto,Centro,3000,300.0,Fiador,IPCA,2025-08-24,2026-08-24,12,Ativo,0
+CTR-2025-0018,Casa,Sorocaba,Além Ponte,3400,306.0,Fiador,IPCA,2025-01-08,2026-01-08,12,Ativo,0
+CTR-2026-0019,Loja,São Paulo,Tatuapé,3700,370.0,Fiador,IPCA,2025-12-13,2028-12-12,36,Encerrado,1
+CTR-2025-0020,Casa,Jundiaí,Anhangabaú,4950,445.5,Capitalização,IPCA,2025-04-12,2026-04-12,12,Ativo,0
+CTR-2026-0021,Apartamento,São José dos Campos,Urbanova,3900,312.0,Capitalização,IPCA,2025-12-01,2026-12-01,12,Encerrado,0
+CTR-2025-0022,Casa,Campinas,Barão Geraldo,2750,247.5,Capitalização,IGP-M,2025-08-09,2027-08-09,24,Ativo,0
+CTR-2026-0023,Loja,São José dos Campos,Centro,1800,162.0,Fiador,IPCA,2025-12-04,2026-12-04,12,Ativo,0
+CTR-2025-0024,Galpão,Campinas,Cambuí,6200,558.0,Seguro Fiança,IGP-M,2025-07-18,2026-07-18,12,Em renovação,0
+CTR-2026-0025,Loja,Jundiaí,Vila Arens,5400,540.0,Fiador,IGP-M,2025-03-25,2027-03-25,24,Em renovação,1
+CTR-2025-0026,Apartamento,Sorocaba,Além Ponte,2500,200.0,Fiador,IGP-M,2025-02-03,2026-02-03,12,Ativo,1
+CTR-2026-0027,Casa,São José dos Campos,Centro,6450,516.0,Caução,IGP-M,2025-02-08,2027-02-08,24,Em renovação,1
+CTR-2025-0028,Loja,Sorocaba,Centro,6450,516.0,Seguro Fiança,IGP-M,2025-02-15,2028-02-15,36,Ativo,0
+CTR-2026-0029,Galpão,Santos,Gonzaga,8400,672.0,Caução,IPCA,2025-08-27,2028-02-26,30,Ativo,1
+CTR-2025-0030,Loja,São Paulo,Tatuapé,5550,499.5,Caução,IGP-M,2025-05-20,2027-05-20,24,Encerrado,0
+CTR-2026-0031,Galpão,Campinas,Centro,3650,365.0,Fiador,IPCA,2025-12-12,2028-06-12,30,Ativo,0
+CTR-2025-0032,Casa,Sorocaba,Campolim,3900,390.0,Fiador,IGP-M,2025-11-10,2027-11-10,24,Ativo,0
+CTR-2026-0033,Sala Comercial,Jundiaí,Centro,1300,130.0,Caução,IGP-M,2025-11-25,2028-11-24,36,Ativo,0
+CTR-2025-0034,Casa,Santos,Embaré,5200,520.0,Caução,IPCA,2025-10-14,2028-10-13,36,Ativo,0
+CTR-2026-0035,Sala Comercial,São Paulo,Lapa,3150,283.5,Caução,IPCA,2025-03-21,2028-03-20,36,Ativo,0
+CTR-2025-0036,Casa,Campinas,Cambuí,4500,405.0,Fiador,IPCA,2026-02-08,2029-02-07,36,Encerrado,0
+CTR-2026-0037,Casa,São Paulo,Vila Mariana,4950,445.5,Fiador,IGP-M,2026-02-19,2028-02-19,24,Encerrado,0
+CTR-2025-0038,Apartamento,São José dos Campos,Jardim Aquarius,2100,168.0,Seguro Fiança,IGP-M,2025-04-17,2028-04-16,36,Encerrado,0
+CTR-2026-0039,Casa,São Paulo,Santana,4300,430.0,Seguro Fiança,IGP-M,2025-05-27,2026-05-27,12,Ativo,0
+CTR-2025-0040,Loja,São José dos Campos,Jardim Aquarius,1650,148.5,Seguro Fiança,IPCA,2025-03-05,2027-09-04,30,Ativo,1
+CTR-2026-0041,Sala Comercial,Santos,Boqueirão,3400,272.0,Fiador,IGP-M,2025-09-23,2026-09-23,12,Ativo,0
+CTR-2025-0042,Loja,Sorocaba,Além Ponte,6900,690.0,Caução,IGP-M,2025-04-15,2027-10-15,30,Em renovação,0
+CTR-2026-0043,Apartamento,Santos,Embaré,2450,245.0,Seguro Fiança,IGP-M,2025-09-21,2028-03-22,30,Ativo,0
+CTR-2025-0044,Casa,Campinas,Barão Geraldo,4700,423.0,Capitalização,IGP-M,2025-12-17,2027-12-17,24,Ativo,0
+CTR-2026-0045,Casa,Santos,Boqueirão,6350,635.0,Capitalização,IGP-M,2025-11-11,2028-05-12,30,Ativo,0
+CTR-2025-0046,Casa,Jundiaí,Vila Arens,2300,184.0,Fiador,IPCA,2025-05-30,2027-11-29,30,Ativo,0
+CTR-2026-0047,Apartamento,Campinas,Cambuí,2200,176.0,Capitalização,IGP-M,2025-09-05,2026-09-05,12,Encerrado,1
+CTR-2025-0048,Galpão,Ribeirão Preto,Centro,10050,804.0,Caução,IPCA,2025-05-09,2027-05-09,24,Encerrado,0
+CTR-2026-0049,Loja,São José dos Campos,Jardim Aquarius,1800,180.0,Capitalização,IPCA,2025-10-17,2027-10-17,24,Ativo,0
+CTR-2025-0050,Loja,Sorocaba,Além Ponte,4000,360.0,Capitalização,IGP-M,2026-05-06,2029-05-05,36,Encerrado,0
+CTR-2026-0051,Casa,Santos,Embaré,3850,308.0,Seguro Fiança,IPCA,2026-02-01,2029-01-31,36,Ativo,0
+CTR-2025-0052,Sala Comercial,Santos,Boqueirão,3100,310.0,Fiador,IPCA,2025-02-15,2027-02-15,24,Ativo,0
+CTR-2026-0053,Apartamento,Campinas,Barão Geraldo,2850,256.5,Caução,IGP-M,2025-06-23,2028-06-22,36,Ativo,0
+CTR-2025-0054,Loja,São José dos Campos,Urbanova,1550,139.5,Caução,IGP-M,2026-03-19,2029-03-18,36,Em renovação,0
+CTR-2026-0055,Galpão,São José dos Campos,Urbanova,7100,639.0,Capitalização,IGP-M,2025-09-11,2027-09-11,24,Ativo,0
+CTR-2025-0056,Galpão,Ribeirão Preto,Ribeirânia,6200,620.0,Caução,IPCA,2026-03-11,2029-03-10,36,Em renovação,1
+CTR-2026-0057,Apartamento,Ribeirão Preto,Jardim Irajá,3850,346.5,Fiador,IGP-M,2025-08-12,2027-08-12,24,Ativo,0
+CTR-2025-0058,Galpão,Campinas,Centro,9050,814.5,Capitalização,IGP-M,2026-01-29,2029-01-28,36,Ativo,0
+CTR-2026-0059,Loja,São Paulo,Moema,4250,340.0,Caução,IPCA,2025-04-29,2026-04-29,12,Em renovação,0
+CTR-2025-0060,Casa,Sorocaba,Centro,2650,212.0,Capitalização,IPCA,2025-09-04,2026-09-04,12,Ativo,0
+CTR-2026-0061,Loja,Sorocaba,Além Ponte,2350,235.0,Caução,IGP-M,2026-02-07,2028-02-07,24,Ativo,0
+CTR-2025-0062,Galpão,Ribeirão Preto,Centro,6750,540.0,Seguro Fiança,IPCA,2025-02-12,2027-02-12,24,Encerrado,1
+CTR-2026-0063,Loja,São José dos Campos,Centro,4250,340.0,Caução,IGP-M,2025-10-04,2028-10-03,36,Ativo,0
+CTR-2025-0064,Galpão,São José dos Campos,Jardim Aquarius,5250,525.0,Fiador,IGP-M,2025-08-14,2028-02-13,30,Ativo,1
+CTR-2026-0065,Loja,Santos,Embaré,5350,481.5,Seguro Fiança,IGP-M,2025-08-31,2028-08-30,36,Encerrado,0
+CTR-2025-0066,Casa,Jundiaí,Anhangabaú,6250,500.0,Caução,IGP-M,2025-11-13,2028-11-12,36,Ativo,0
+CTR-2026-0067,Casa,Jundiaí,Anhangabaú,3700,296.0,Caução,IGP-M,2025-06-28,2027-12-28,30,Ativo,0
+CTR-2025-0068,Galpão,Campinas,Barão Geraldo,7450,670.5,Capitalização,IGP-M,2025-12-24,2028-12-23,36,Encerrado,0
+CTR-2026-0069,Galpão,Campinas,Taquaral,8500,765.0,Seguro Fiança,IGP-M,2025-12-10,2028-06-10,30,Ativo,1
+CTR-2025-0070,Galpão,Santos,Boqueirão,8500,850.0,Fiador,IPCA,2025-05-13,2027-05-13,24,Ativo,1
+CTR-2026-0071,Casa,Campinas,Taquaral,5550,444.0,Fiador,IPCA,2025-05-26,2027-11-25,30,Ativo,0
+CTR-2025-0072,Apartamento,Santos,Embaré,3400,340.0,Caução,IPCA,2025-03-10,2027-09-09,30,Ativo,0
+CTR-2026-0073,Galpão,São José dos Campos,Centro,3700,296.0,Capitalização,IGP-M,2025-10-25,2028-04-25,30,Ativo,0
+CTR-2025-0074,Galpão,Santos,Gonzaga,4550,409.5,Caução,IPCA,2025-07-29,2028-07-28,36,Ativo,1
+CTR-2026-0075,Casa,São Paulo,Moema,6150,553.5,Capitalização,IPCA,2026-01-31,2029-01-30,36,Ativo,0
+CTR-2025-0076,Loja,São José dos Campos,Jardim Aquarius,3900,390.0,Fiador,IPCA,2025-10-23,2026-10-23,12,Ativo,0
+CTR-2026-0077,Casa,São Paulo,Tatuapé,3000,270.0,Caução,IPCA,2025-10-14,2026-10-14,12,Ativo,1
+CTR-2025-0078,Apartamento,Santos,Gonzaga,2400,240.0,Caução,IGP-M,2026-01-01,2028-07-02,30,Ativo,0
+CTR-2026-0079,Casa,Sorocaba,Campolim,2550,204.0,Seguro Fiança,IPCA,2025-10-10,2027-10-10,24,Encerrado,0
+CTR-2025-0080,Sala Comercial,Campinas,Centro,2700,270.0,Capitalização,IGP-M,2025-03-09,2028-03-08,36,Em renovação,1
+CTR-2026-0081,Galpão,Jundiaí,Centro,4150,415.0,Seguro Fiança,IGP-M,2026-04-05,2029-04-04,36,Ativo,0
+CTR-2025-0082,Loja,São José dos Campos,Urbanova,1550,139.5,Fiador,IPCA,2026-01-31,2028-08-01,30,Ativo,0
+CTR-2026-0083,Loja,Campinas,Barão Geraldo,6600,594.0,Capitalização,IPCA,2026-02-25,2029-02-24,36,Ativo,0
+CTR-2025-0084,Apartamento,Ribeirão Preto,Jardim Irajá,2550,204.0,Capitalização,IGP-M,2025-08-03,2028-08-02,36,Encerrado,1
+CTR-2026-0085,Apartamento,Jundiaí,Anhangabaú,2250,202.5,Caução,IGP-M,2025-06-19,2026-06-19,12,Ativo,1
+CTR-2025-0086,Apartamento,Jundiaí,Centro,3300,264.0,Caução,IGP-M,2025-07-09,2028-07-08,36,Ativo,1
+CTR-2026-0087,Galpão,Santos,Embaré,11450,1145.0,Fiador,IPCA,2025-03-08,2026-03-08,12,Ativo,0
+CTR-2025-0088,Apartamento,Jundiaí,Centro,4650,418.5,Caução,IGP-M,2026-04-17,2027-04-17,12,Ativo,0
+CTR-2026-0089,Sala Comercial,Ribeirão Preto,Ribeirânia,3800,304.0,Capitalização,IGP-M,2025-05-24,2028-05-23,36,Ativo,1
+CTR-2025-0090,Casa,Jundiaí,Vila Arens,5750,517.5,Seguro Fiança,IPCA,2026-01-22,2028-01-22,24,Encerrado,0
+CTR-2026-0091,Loja,São José dos Campos,Jardim Aquarius,1400,126.0,Fiador,IGP-M,2025-05-29,2027-11-28,30,Ativo,0
+CTR-2025-0092,Loja,Santos,Embaré,4500,405.0,Fiador,IPCA,2025-08-26,2028-02-25,30,Ativo,0
+CTR-2026-0093,Sala Comercial,São Paulo,Santana,3800,304.0,Fiador,IGP-M,2026-04-17,2029-04-16,36,Ativo,0
+CTR-2025-0094,Loja,Sorocaba,Campolim,2200,198.0,Capitalização,IPCA,2026-03-28,2029-03-27,36,Ativo,0
+CTR-2026-0095,Casa,São José dos Campos,Centro,5450,545.0,Capitalização,IGP-M,2026-02-09,2028-08-10,30,Ativo,0
+CTR-2025-0096,Loja,São José dos Campos,Jardim Aquarius,4000,320.0,Caução,IPCA,2025-11-21,2028-11-20,36,Ativo,0
+CTR-2026-0097,Apartamento,Ribeirão Preto,Centro,1600,128.0,Fiador,IGP-M,2026-01-29,2027-01-29,12,Ativo,0
+CTR-2025-0098,Apartamento,Santos,Boqueirão,2650,265.0,Fiador,IPCA,2025-07-15,2028-07-14,36,Ativo,1
+CTR-2026-0099,Casa,São José dos Campos,Centro,3050,244.0,Capitalização,IPCA,2025-02-14,2028-02-14,36,Em renovação,0
+CTR-2025-0100,Sala Comercial,Jundiaí,Anhangabaú,1950,156.0,Seguro Fiança,IGP-M,2025-12-12,2026-12-12,12,Ativo,0
